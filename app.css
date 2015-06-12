@@ -1,0 +1,30 @@
+.player-list{
+    text-align: center;
+}
+
+.player-list input{
+    text-align: center;
+    width: 90%;
+}
+
+table, th, td {
+    border: 1px solid #efefef;
+}
+
+table th {
+    background: lightblue;
+    table-layout: fixed;
+}
+
+table textarea {
+    width: 90%;
+}
+
+.clash-name {
+    text-align: center;
+    color: lightblue;
+}
+.clash-name {
+    text-align: center;
+    color: black;
+}
